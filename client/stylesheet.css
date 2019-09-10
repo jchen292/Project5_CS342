@@ -1,0 +1,49 @@
+/* * {
+    box-sizing: border-box;
+  } */
+
+#signDiv {
+    background-color: red;
+
+}
+
+/* .column {
+    float: left;
+    width: 33.33%;
+  } */
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#leaderboard {
+    width: 20%;
+    float: left;
+}
+
+#game {
+    /* position: absolute; */
+    width: 500px;
+    height: 500px;
+    width: 60%;
+    float: left;  
+
+}
+
+#chat {
+    width: 20%;
+    float: right;
+}
+
+
+
+#gameDiv {
+    display: none;
+    /* position: absolute;width:1000px;height:500px; */
+    
+}
+
+

@@ -1,1 +1,2 @@
-# Project5_CS342
+# proj5
+Multiplayer game made with Node.js
